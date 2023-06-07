@@ -1,0 +1,110 @@
+.container {
+background-color: red;
+height: 100px;
+width: 500px;
+display: flex;
+justify-content: space-between;
+padding: 10px;
+border: 5px solid black;
+}
+
+
+.header {
+background-color: blue;
+height: 50px;
+width: 100px;
+border: 5px solid black;
+
+}
+
+.header2 {
+    background-color: blue;
+    height: 50px;
+    width: 200px;
+    border: 5px solid black;
+   
+    
+    
+}
+
+.main{
+    height: 100px;
+    width: 350px;
+    background-color: yellow;
+    display: flex;
+justify-content: space-between;
+padding: 10px;
+border: 5px solid black;
+
+}
+
+
+.caixa1{
+    height: 60px;
+    width: 60px;
+    background-color: blue;
+    border: 5px solid black;
+}
+
+.caixa2{
+    height: 60px;
+    width: 60px;
+    background-color: blue;
+    border: 5px solid black;
+    
+}
+
+.caixa3{
+    height: 60px;
+    width: 60px;
+    background-color: blue;
+    border: 5px solid black;
+}
+
+.main2{
+display: flex;
+justify-content: space-between;
+height: 100px;
+    width: 350px;
+    background-color: yellow;
+    border: 5px solid black;
+    
+}
+
+.caixa4{
+    height: 100px;
+    width: 60px;
+    background-color: blue;
+    border: 5px solid black;
+}
+
+.caixa5{
+    height: 60px;
+    width: 60px;
+    background-color: blue;
+    border: 5px solid black;
+    text-align: auto;
+}
+
+.caixa6{
+    height: 60px;
+    width: 120px;
+    background-color: blue;
+    border: 5px solid black;
+}
+
+.caixa7{
+    height: 60px;
+    width: 60px;
+    background-color: blue;
+    border: 5px solid black;
+}
+
+.footer {
+    height: 20px;
+    width: 500px;
+    background-color: red;
+    border: 5px solid black;
+    
+
+}
